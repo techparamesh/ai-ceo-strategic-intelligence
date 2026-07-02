@@ -1,0 +1,19 @@
+# Generated data — this is per-run output, not source
+collected_data.json
+analysis_results.json
+chroma_store/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Env / secrets
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

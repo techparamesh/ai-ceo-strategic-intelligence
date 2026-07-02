@@ -1,0 +1,8 @@
+streamlit
+crewai
+crewai-tools
+chromadb
+sentence-transformers
+vaderSentiment
+feedparser
+requests
